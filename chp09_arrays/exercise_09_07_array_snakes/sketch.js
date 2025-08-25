@@ -6,9 +6,9 @@
 // object-oriented fashion with a Snake class. 
 // Can you make snakes with slightly different looks 
 // (different shapes, colors, sizes)? 
-// (For an advanced problem, create a Povar class that 
+// (For an advanced problem, create a Point class that 
 // stores an x and y coordinate as part of the sketch. 
-// Each snake object will have an array of Povar objects, 
+// Each snake object will have an array of Point objects, 
 // instead of two separate arrays of x and y values. 
 // This involves arrays of objects, covered in the next 
 // section.)
