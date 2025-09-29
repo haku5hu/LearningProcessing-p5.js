@@ -8,7 +8,7 @@ var osc;
 
 var envelope;
 
-var notebank = [
+var notes = [
   60, 62, 64, 65, 67, 69, 71, 72
 ]; 
 
