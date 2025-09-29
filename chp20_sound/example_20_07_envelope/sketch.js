@@ -26,9 +26,9 @@ function setup() {
 function draw() {
   if (frameCount % 60 == 0) {
     // Not right?
-    osc.freq(translateMIDI(notebank[note]));
+    osc.freq(translateMIDI(notes[note]));
     envelope.play(osc);
-    note = (note + 1) % notebank.length;
+    note = (note + 1) % notes.length;
   }
 }
 
